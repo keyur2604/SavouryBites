@@ -9,8 +9,6 @@ Welcome to **Savoury Bites** – your ultimate online destination for all things
 - [Getting Started](#getting-started)
 - [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
